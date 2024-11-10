@@ -1,3 +1,5 @@
+![](https://github.com/prabalraj18/HDLBits_Solutions/blob/main/logo270.png)
+
 # HDLBits_Solutions
 This repository contains my solutions and documentation for exercises on HDLBits, an interactive platform for learning digital design using Verilog/SystemVerilog. Each problem includes a code solution along with explanations to reinforce fundamental concepts in digital logic and HDL programming.
 
